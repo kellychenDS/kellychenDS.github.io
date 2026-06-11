@@ -19,10 +19,10 @@ CHECKLIST FOR THIS PAGE:
 
 
 <div class="hero">
-  <img src="assets/images/profile.png" alt="[YOUR NAME]" class="profile-photo">
-  <h1>[YOUR NAME]</h1>
-  <p><strong>[YOUR JOB TITLE]</strong></p>
-  <p><em>[YOUR TAGLINE — e.g., Turning spatial data into insights | GIS | Remote Sensing | Python]</em></p>
+  <img src="assets/images/profile.png" alt="Kelly Wanjing Chen" class="profile-photo">
+  <h1>Kelly Wanjing Chen</h1>
+  <p><strong>Data Analyst</strong></p>
+  <p><em>Turning spatial data into insights | GIS | Remote Sensing | Python | Edtech</em></p>
 </div>
 
 ---
@@ -31,10 +31,6 @@ CHECKLIST FOR THIS PAGE:
 
 <div class="about-section" markdown>
 <div class="about-text" markdown>
-
-[Replace this paragraph with your own bio. Write 3–4 sentences covering: your background and
-what you specialize in, the kinds of problems you work on, the tools and methods you use,
-and what you are currently looking for. Example below:]
 
 I am a geospatial data scientist with a background in remote sensing and machine learning.
 I work on extracting actionable insights from satellite imagery and large spatial datasets
